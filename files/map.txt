@@ -1,0 +1,5 @@
+{"uri":"MjA=", "redirect":"https://qvarvenezuela.com"}
+{"uri":"MjE=", "redirect":"https://www.bbva.mx"}
+{"uri":"MjI=", "redirect":"https://www.dexcom.com"}
+{"uri":"MjM=", "redirect":"https://www.google.com/search?q=apache2+enable+rewrite+command&rlz=1C5GCCM_en&oq=apach&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg0IARAuGMcBGNEDGIAEMgcIAhAAGIAEMgYIAxBFGDkyBwgEEAAYgAQyBwgFEC4YgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEC4YgAQyBwgJEAAYjwLSAQgxMTkwajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8"}
+{"uri":"MjQ=", "redirect":"https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod-rewrite-for-apache-on-debian-9"}

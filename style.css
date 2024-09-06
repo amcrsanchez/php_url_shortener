@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    font: 15px sans-serif;
+    padding-top: 20vh;
+    h1 {
+        letter-spacing: .7px;
+        color: #383838;
+    }
+    h2 {
+        color: #5A5A5A;
+    }
+}
+.container .form {
+    margin-top: 50px;
+}
+.container .url-input {
+    width: 400px;
+    padding: 5px;
+    font-size: 18px;
+}
+.container .shorten-btn {
+    padding: 5px 15px;
+    font-size: 18px;
+}
+.back-home-container {
+    padding-top: 30px;
+}
+.shortened-url-container a {
+    font-size: 26px;
+}
+.copy-container {
+    padding-top: 30px;
+}
