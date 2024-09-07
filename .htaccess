@@ -1,3 +1,5 @@
 RewriteEngine On
-Redirect 301 /map.txt /shorten.php
+Redirect 301 /files/config.json /
+Redirect 301 /files/count.txt /
+Redirect 301 /files/map.txt /
 RewriteRule ^r/(.*)$ redirection.php?uri=$1 [L,QSA]
